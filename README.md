@@ -43,7 +43,9 @@ You will then see a command prompt that looks like :
     vagrant@vagrant-ubuntu-vivid-64:~$
     
 To start the server enter :
+
     cd cd Steam/steamapps/common/Project\ Zomboid\ Dedicated\ Server/
+    
     ./start-server.sh
 
 And that's it.  Connect your ProjectZomboid clients to your virtual machines local network IP address and profit!

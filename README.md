@@ -13,16 +13,16 @@ To use this script you will need 2 bits of software installed :
 
 1) Virtualbox 
 
-  https://www.virtualbox.org/wiki/Downloads
+* https://www.virtualbox.org/wiki/Downloads
     
-  This is the software that will run your virutal machine
+* This is the software that will run your virutal machine
     
     
 2) Vagrant
 
-  https://www.vagrantup.com/downloads.html
+* https://www.vagrantup.com/downloads.html
     
-  This allows easy creation and management of virtual machines through the command line interface.
+* This allows easy creation and management of virtual machines through the command line interface.
     
 ## How to use
 
